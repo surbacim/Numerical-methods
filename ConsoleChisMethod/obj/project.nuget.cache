@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpw2BI6IP2xJ1hxSo8TsF1f1IQ13Hz5TMfd3w4TpP4JlFxlCiqDR7zt8gVaKpWVBDyZfJuK5jNUAxSSDq2mxLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Юрий\\Desktop\\АИСД и ЧМ\\ConsoleChisMethod\\ConsoleChisMethod\\ConsoleChisMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Юрий\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
